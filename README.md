@@ -1,2 +1,2 @@
 # lab
-Maxim Freydin's Group at QMUL
+Maxim Freydin Group at QMUL
